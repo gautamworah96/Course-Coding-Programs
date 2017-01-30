@@ -1,0 +1,14 @@
+
+.MODEL small, C
+.CODE
+PUBLIC Powernum
+Powernum PROC NEAR USES BX, x: WORD, y: WORD
+MOV AX, 1
+MOV BX, x
+MOV CX, y
+LOOP1: MUL BX
+	   DEC CX
+	   JNZ LOOP1	
+RET
+Powernum ENDP
+END
