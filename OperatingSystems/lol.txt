@@ -1,0 +1,18 @@
+Bankers - https://dpaste.de/Gi6C/raw
+Calci - https://dpaste.de/TPyN/raw
+Fibonacci - https://dpaste.de/S3DR/raw
+Producer-consumer : https://dpaste.de/Pmds/raw
+System calls : https://dpaste.de/dqco/raw
+Disk scheduling: https://dpaste.de/ftkF/raw
+Memory alloc: https://dpaste.de/hUV8/raw
+Ipc message passing server - https://dpaste.de/e0K8/raw
+Ipc message passing client - https://dpaste.de/aq5G/raw
+Fcfs: https://dpaste.de/g47P/raw
+Priority: https://dpaste.de/L3t3/raw
+Srtn: https://dpaste.de/Wxah/raw
+Spnn: https://dpaste.de/973r/raw
+Rr: https://dpaste.de/F1kE/raw
+Sum of first n numbers: https://dpaste.de/3QiE/raw
+Factorial: https://dpaste.de/WXud/raw
+Fork Process: https://dpaste.de/BJjg/raw
+IPC using semaphore - https://dpaste.de/Tr9e/raw
